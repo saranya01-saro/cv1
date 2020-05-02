@@ -1,0 +1,130 @@
+body{
+ margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.profile{
+ margin:auto;
+  width:60%;
+  text-align: left;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+.saro{
+  border-radius: 100%;
+  width:25%;
+  float:left;
+  margin-right: 20px;
+}
+.skills{
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+h1{
+
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem;
+  line-height: 2;
+  color:#66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight: normal;
+  color:#66BFBF;
+  font-weight: bolder;
+}
+.top{
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position:relative;
+}
+.skill-row{
+  margin:auto;
+  width:50%;
+  margin-top: 100px;
+  margin-bottom: 150px;
+  text-align: left;
+  line-height: 2;
+}
+.img1{
+  width:25%;
+  border-radius:100%;
+  float:left;
+  margin-right:50px;
+}
+/*
+.code{
+  clear:left;
+}
+.code1{
+  clear:right;
+}*/
+.img2{
+  width:25%;
+  border-radius:100%;
+float:right;
+margin-left:50px;
+}
+h3{
+    color:#11999E;
+
+}
+a{
+    color:#11999E;
+}
+hr{
+  border-style:none;
+  border-top: 7px dotted;
+  border-color:grey;
+  width:5%;
+}
+.bottom
+{
+position:absolute;
+  left:300px;
+  bottom:300px;
+}
+.t{
+ position:absolute;
+ right:350px;
+ top:50px;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #9fb4f2;
+	background:linear-gradient(to bottom, #08f7ff 5%, #2eb6c2 100%);
+	background-color:#08f7ff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:17px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #2eb6c2 5%, #08f7ff 100%);
+	background-color:#2eb6c2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link
+{
+  padding-right:15px;
+}
+p{
+  color:#40514E;
+}
+.contact-me{
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+}
